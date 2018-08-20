@@ -1,0 +1,12 @@
+
+\.idea/
+
+__pycache__/
+
+\.ok_history
+
+*.bak
+
+\.ok_storage\.dat
+
+\.ok_storage\.dir
